@@ -47,5 +47,3 @@ Q3a(-8): For Item-Item Collaborative Filtering, the two closest neighbors are Bo
 For User-user collaboration filtering, the two closest neighbors are User 1 and User 2, and the prediction will be (0.707107*3+0*5) / (0.707107+0) = 3.
 
 To modify your code correctly, you should compare it to the content of slide for recommendation system.
-
-#### 
