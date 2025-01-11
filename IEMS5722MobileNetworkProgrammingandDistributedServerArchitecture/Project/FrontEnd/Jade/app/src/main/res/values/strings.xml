@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Jade</string>
+    <string name="tips">I have read and agreed&#160;</string>
+    <string name="NotAgreeTips">You have not agreed User Agreement!</string>
+    <string name="file">User Agreement</string>
+    <string name="SettingString">Settings</string>
+    <string name="SettingTitle">My Post</string>
+    <string name="AlbumString">Album on Map</string>
+    <string name="AdvanceInformation">Advance Information</string>
+    <string name="HideInformation">Click to hide</string>
+    <string name="CommitArea">Sharing Space</string>
+    <string name="NoLocation">(0.0,0.0)</string>
+    <string name="UploadTitle">Post Title</string>
+    <string name="UploadContent">Description</string>
+</resources>
